@@ -13,6 +13,7 @@ namespace QLShopPet
 {
     public partial class Manager : Form
     {
+        //hihi
         string fileanh;
         public Manager()
         {
