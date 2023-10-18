@@ -85,5 +85,6 @@ namespace QLShopPet
             (panel1.Width - label1.Width) / 2,
             (panel1.Height - label1.Height) / 2);
         }
+        //ahihi
     }
 }
